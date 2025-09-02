@@ -1,1 +1,2 @@
 "Change made in branch-B" 
+Final resolved version after merging branch-A and branch-B
